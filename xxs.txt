@@ -1,0 +1,4 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/1024px-Skull_and_Crossbones.svg.png
+
+<img src='x' onerror='document.body.innerHTML="<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/1024px-Skull_and_Crossbones.svg.png\" alt=\"anonymous\">";'>
+

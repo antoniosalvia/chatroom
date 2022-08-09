@@ -1,0 +1,43 @@
+#output {
+    width: 230px;
+    height: 300px;
+    border: 1px solid grey;
+    padding: 5px;
+    margin-bottom: 5px;
+    overflow-y: scroll;
+}
+
+#output section {
+    background-color: rgba(0, 0, 255, 0.3);
+    border-radius: 5px;
+    margin: 5px 20px 5px 0;
+    padding: 4px;
+    
+}
+
+#output div {
+    color: brown;
+}
+
+#output div span {
+    font-size: 10px;
+    color: black;
+}
+
+.emoji {
+    cursor: pointer;
+    padding: 2px;
+    border: 1px solid transparent;
+}
+
+.emoji:hover {
+    border: 1px solid red;
+}
+
+#userlist {
+    position: absolute;
+    left: 280px;
+    top: 82px;
+    border: 1px solid gray;
+    width: 150px;
+}
